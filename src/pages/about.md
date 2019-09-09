@@ -1,6 +1,6 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
+title: About
+subtitle: This is a gift ideas blog for Indian expats living abroad. 
 img_path: images/about.jpg
 menus:
   main:
