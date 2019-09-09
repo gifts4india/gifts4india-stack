@@ -7,10 +7,10 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Gifts4India is a free, no-ad,pop-up collection of gift ideas for expats to take home when visiting family and  
+      friends. Gift ideas are collection of links from various websites and affliate links. Gifts4India doesn't sell any products on their
+      website, please click the hyperlinks/more info buttons for latest pricing and reviews.
+      
     actions:
       - label: Learn More
         url: /about
