@@ -16,4 +16,8 @@ subtitle: Best Streaming device under $50 bucks
 * Alexa on Fire TV provides the most comprehensive voice experience of any streaming media player—view live camera feeds, check the weather, dim the lights, and stream music.
 * Amazon Prime members get unlimited access to thousands of movies and TV episodes, plus ad-free listening to millions of songs with Prime Music
 
- [Buy](https://amzn.to/2ZVHvoh "Buy")
+[Buy](https://amzn.to/2ZVHvoh "Buy")
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gifts4india-20&marketplace=amazon&region=US&placement=B0791TX5P5&asins=B0791TX5P5&linkId=7b5318d70add3e25eec3da726b560b56&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+
+    </iframe>
