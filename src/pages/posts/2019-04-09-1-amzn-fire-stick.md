@@ -5,7 +5,8 @@ thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 excerpt: Best Streaming device under $50 bucks..
 template: post
-subtitle: Best Streaming device under $50 bucks
+subtitle: Best Streaming device under $40 bucks that is 4K and AI enabled through
+  Alexa
 
 ---
 * The most powerful 4K streaming media stick with a Wi-Fi antenna design optimized for 4K Ultra HD streaming.
